@@ -1,0 +1,885 @@
+[
+    {
+        "id": 1,
+        "gun": 1,
+        "gun_name": "Any",
+        "skin": "Peanits",
+        "stickers": [
+            { "name": "paiN Gaming | Paris 2023", "type": "Paper", "quantity": 1 },
+            { "name": "EliGE | Shanghai 2024", "type": "Paper", "quantity": 1 },
+            { "name": "AdreN | Berlin 2019", "type": "Paper", "quantity": 1 },
+            { "name": "Nitr0 | Paris 2023", "type": "Paper", "quantity": 1 },
+            { "name": "SDY | Paris 2023", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Word",
+        "craft": "Peanits",
+        "img": "/img/word-1.png"
+    },
+    {
+        "id": 2,
+        "gun": 1,
+        "gun_name": "Any",
+        "skin": "Nuke France",
+        "stickers": [
+            { "name": "Nuke Beast", "type": "Paper", "quantity": 1 },
+            { "name": "blameF | Shanghai 2024", "type": "Paper", "quantity": 1 },
+            { "name": "rain (Champion) | Antwerp 2022", "type": "Paper", "quantity": 1 },
+            { "name": "Nitr0 | Paris 2023", "type": "Paper", "quantity": 1 },
+            { "name": "CeRq | Berlin 2019", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Word",
+        "craft": "Nuke France",
+        "img": "/img/word-2.png"
+    },
+    {
+        "id": 3,
+        "gun": 2,
+        "gun_name": "Galil-AR",
+        "skin": "Connexion",
+        "stickers": [
+            { "name": "paiN Gaming | Paris 2023", "type": "Glitter", "quantity": 4 },
+            { "name": "Poorly Drawn Leet Crew", "type": "Holo", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "Red",
+        "img": "/img/galil-ar-1.png"
+    },
+    {
+        "id": 4,
+        "gun": 2,
+        "gun_name": "Galil-AR",
+        "skin": "Blue Titanium",
+        "stickers": [
+            { "name": "Hydro Geyser", "type": "Paper", "quantity": 4 },
+            { "name": "Hydro Wave", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "Blue",
+        "img": "/img/galil-ar-2.png"
+    },
+    {
+        "id": 5,
+        "gun": 2,
+        "gun_name": "Galil-AR",
+        "skin": "Acid Dart",
+        "stickers": [
+            { "name": "Bolt Strike", "type": "Paper", "quantity": 4 },
+            { "name": "Bolt Energy", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "Yellow",
+        "img": "/img/galil-ar-3.png"
+    },
+    {
+        "id": 7,
+        "gun": 2,
+        "gun_name": "Galil-AR",
+        "skin": "O-Ranger",
+        "stickers": [
+            { "name": "Wallbang", "type": "Paper", "quantity": 4 }
+        ],
+        "type": "Design",
+        "craft": "Red",
+        "img": "/img/galil-ar-4.png"
+    },
+    {
+        "id": 8,
+        "gun": 2,
+        "gun_name": "Galil-AR",
+        "skin": "NV",
+        "stickers": [
+            { "name": "Boom Trail", "type": "Glitter", "quantity": 4 },
+            { "name": "Boom Epicenter", "type": "Glitter", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "Green",
+        "img": "/img/galil-ar-5.png"
+    },
+    {
+        "id": 9,
+        "gun": 1,
+        "gun_name": "Any",
+        "skin": "Taste the Rainbow",
+        "stickers": [
+            { "name": "tabseN | Shanghai 2024", "type": "Paper", "quantity": 1 },
+            { "name": "Stewie2k | Berlin 2019", "type": "Paper", "quantity": 1 },
+            { "name": "Poorly Drawn Balkan", "type": "Paper", "quantity": 1 },
+            { "name": "Rainbow Route", "type": "Holo", "quantity": 1 }
+        ],
+        "type": "Word",
+        "craft": "Taste the Rainbow",
+        "img": "/img/word-3.png"
+    },
+    {
+        "id": 10,
+        "gun": 3,
+        "gun_name": "Desert Eagle",
+        "skin": "Tilted",
+        "stickers": [
+            { "name": "Bolt Strike", "type": "Paper", "quantity": 1 },
+            { "name": "Poorly Drawn Chicken", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Funny",
+        "craft": "Funny",
+        "img": "/img/deagle-1.png"
+    },
+    {
+        "id": 11,
+        "gun": 3,
+        "gun_name": "Desert Eagle",
+        "skin": "Oxide Blaze",
+        "stickers": [
+            { "name": "First Blood", "type": "Paper (Scraped)", "quantity": 1 },
+            { "name": "North | 2020 RMR", "type": "Paper (Scraped)", "quantity": 2 },
+            { "name": "Cluck", "type": "Paper (Scraped)", "quantity": 1 },
+            { "name": "Broken Fang", "type": "Paper (Scraped)", "quantity": 1 }
+            
+        ],
+        "type": "Design",
+        "craft": "White",
+        "img": "/img/deagle-2.png"
+    },
+    {
+        "id": 12,
+        "gun": 1,
+        "gun_name": "Any",
+        "skin": "I'm Jorqin",
+        "stickers": [
+            { "name": "iM | Paris 2023", "type": "Paper", "quantity": 1 },
+            { "name": "JOTA | Antwerp 2022", "type": "Paper", "quantity": 1 },
+            { "name": "rigoN | Shanghai 2024", "type": "Paper", "quantity": 1 },
+            { "name": "Qikert | Berlin 2019", "type": "Paper", "quantity": 1 },
+            { "name": "No Pats", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Word",
+        "craft": "I'm Jorqin",
+        "img": "/img/word-4.png"
+    },
+    {
+        "id": 13,
+        "gun": 3,
+        "gun_name": "Desert Eagle",
+        "skin": "Meteorite",
+        "stickers": [
+            { "name": "Bolt Strike", "type": "Paper", "quantity": 4 },
+            { "name": "Ancient Beast", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "Yellow",
+        "img": "/img/deagle-3.png"
+    },
+    {
+        "id": 14,
+        "gun": 4,
+        "gun_name": "AWP",
+        "skin": "Pit Viper",
+        "stickers": [
+            { "name": "Boom Trail", "type": "Glitter", "quantity": 4 },
+            { "name": "Boom Epicenter", "type": "Glitter", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "Green",
+        "img": "/img/awp-1.png"
+    },
+    {
+        "id": 15,
+        "gun": 5,
+        "gun_name": "USP-S",
+        "skin": "Torque",
+        "stickers": [
+            { "name": "NaVi | Paris 2023", "type": "Glitter", "quantity": 2 },
+            { "name": "NaVi | Paris 2023", "type": "Paper", "quantity": 2 },
+            { "name": "Poorly Drawn IDF", "type": "Glitter", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "Yellow",
+        "img": "/img/usps-1.png"
+    },
+    {
+        "id": 16,
+        "gun": 5,
+        "gun_name": "USP-S",
+        "skin": "PC-GRN",
+        "stickers": [
+            { "name": "Boom Trail", "type": "Glitter", "quantity": 4 },
+            { "name": "Boom Epicenter", "type": "Glitter", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "Green",
+        "img": "/img/usps-2.png"
+    },
+    {
+        "id": 17,
+        "gun": 5,
+        "gun_name": "USP-S",
+        "skin": "Cyrex",
+        "stickers": [
+            { "name": "paiN Gaming | Paris 2023", "type": "Paper", "quantity": 4 },
+            { "name": "Heroic | 2020 RMR", "type": "Holo", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "Red",
+        "img": "/img/usps-3.png"
+    },
+    {
+        "id": 18,
+        "gun": 6,
+        "gun_name": "Glock-18",
+        "skin": "Candy Apple",
+        "stickers": [
+            { "name": "paiN Gaming | Paris 2023", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Red",
+        "img": "/img/glock18-1.png"
+    },
+    {
+        "id": 19,
+        "gun": 6,
+        "gun_name": "Glock-18",
+        "skin": "Candy Apple",
+        "stickers": [
+            { "name": "Fluxo | Paris 2023", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Red",
+        "img": "/img/glock18-2.png"
+    },
+    {
+        "id": 20,
+        "gun": 1,
+        "gun_name": "Mac-10 - Monkeyflage",
+        "skin": "Monkey",
+        "stickers": [
+            { "name": "m0nesy | Shanghai 2024", "type": "Paper", "quantity": 1 },
+            { "name": "KEI | Paris 2023", "type": "Paper", "quantity": 1 },
+            { "name": "Yuurih | Shanghai 2024", "type": "Paper", "quantity": 1 },
+            { "name": "Poorly Drawn Terrorist", "type": "Paper", "quantity": 1 },
+            { "name": "CT in Banana", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Word",
+        "craft": "Monkey",
+        "img": "/img/word-5.png"
+    },
+    {
+        "id": 21,
+        "gun": 7,
+        "gun_name": "Mac-10",
+        "skin": "Light Box",
+        "stickers": [
+            { "name": "Rare Atom | Shanghai 2024", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Purple",
+        "img": "/img/mac10-1.png"
+    },
+    {
+        "id": 22,
+        "gun": 7,
+        "gun_name": "Mac-10",
+        "skin": "Candy Apple",
+        "stickers": [
+            { "name": "paiN Gaming | Paris 2023", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Red",
+        "img": "/img/mac10-2.png"
+    },
+    {
+        "id": 23,
+        "gun": 8,
+        "gun_name": "Tec-9",
+        "skin": "Ice Cap",
+        "stickers": [
+            { "name": "PGL | Antwerp 2022", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Blue",
+        "img": "/img/tec9-1.png"
+    },
+    {
+        "id": 24,
+        "gun": 8,
+        "gun_name": "Tec-9",
+        "skin": "Isaac",
+        "stickers": [
+            { "name": "Winding Scorch", "type": "Paper", "quantity": 3 },
+            { "name": "Scorch Loop", "type": "Paper", "quantity": 1 },
+            { "name": "Scorch Loop (Reverse)", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "Red",
+        "img": "/img/tec9-2.png"
+    },
+    {
+        "id": 25,
+        "gun": 10,
+        "gun_name": "Any",
+        "skin": "Mustachio",
+        "stickers": [
+            { "name": "Strike a Pose", "type": "Paper", "quantity": 1 },
+            { "name": "Taste Bud", "type": "Paper", "quantity": 1 },
+            { "name": "Mustachio", "type": "Foil", "quantity": 1 }
+        ],
+        "type": "Funny",
+        "craft": "Funny",
+        "img": "/img/craft-1.png"
+    },
+    {
+        "id": 26,
+        "gun": 9,
+        "gun_name": "MP9",
+        "skin": "Nexus",
+        "stickers": [
+            { "name": "Hydro Geyser", "type": "Paper", "quantity": 1 },
+            { "name": "Hydro Wave", "type": "Paper", "quantity": 2 },
+            { "name": "Hydro Stream", "type": "Paper", "quantity": 2 }
+        ],
+        "type": "Design",
+        "craft": "Blue",
+        "img": "/img/mp9-1.png"
+    },
+    {
+        "id": 27,
+        "gun": 11,
+        "gun_name": "MP7",
+        "skin": "Urban Hazard",
+        "stickers": [
+            { "name": "Apeks | Paris 2023", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Orange",
+        "img": "/img/mp7-1.png"
+    },
+    {
+        "id": 28,
+        "gun": 11,
+        "gun_name": "MP7",
+        "skin": "Cirrus",
+        "stickers": [
+            { "name": "Hydro Geyser", "type": "Paper", "quantity": 1 },
+            { "name": "Hydro Wave", "type": "Paper", "quantity": 2 },
+            { "name": "Hydro Stream", "type": "Paper", "quantity": 2 }
+        ],
+        "type": "Design",
+        "craft": "Blue",
+        "img": "/img/mp7-2.png"
+    },
+    {
+        "id": 29,
+        "gun": 12,
+        "gun_name": "M4A1-S",
+        "skin": "Nitro",
+        "stickers": [
+            { "name": "Apeks | Paris 2023", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Orange",
+        "img": "/img/m4a1s-1.png"
+    },
+    {
+        "id": 30,
+        "gun": 13,
+        "gun_name": "M4A4",
+        "skin": "Etch-Lord",
+        "stickers": [
+            { "name": "Saw | Copenhagen 2024", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Black",
+        "img": "/img/m4a4-1.png"
+    },
+    {
+        "id": 31,
+        "gun": 14,
+        "gun_name": "Zeus x27",
+        "skin": "Electric Blue",
+        "stickers": [
+            { "name": "Hydro Geyser", "type": "Paper", "quantity": 1 },
+            { "name": "Hydro Wave", "type": "Paper", "quantity": 2 },
+            { "name": "Hydro Stream", "type": "Paper", "quantity": 2 }
+        ],
+        "type": "Design",
+        "craft": "Blue",
+        "img": "/img/zeus-1.png"
+    },
+    {
+        "id": 32,
+        "gun": 14,
+        "gun_name": "Zeus x27",
+        "skin": "Swamp DDPAT",
+        "stickers": [
+            { "name": "Boom Epicenter", "type": "Glitter", "quantity": 1 },
+            { "name": "Boom Blast", "type": "Glitter", "quantity": 4 }
+        ],
+        "type": "Design",
+        "craft": "Green",
+        "img": "/img/zeus-2.png"
+    },
+    {
+        "id": 33,
+        "gun": 15,
+        "gun_name": "Famas",
+        "skin": "ZX Spectron",
+        "stickers": [
+            { "name": "paiN Gaming | Paris 2023", "type": "Paper", "quantity": 4 }
+        ],
+        "type": "Design",
+        "craft": "Red",
+        "img": "/img/famas-1.png"
+    },
+    {
+        "id": 34,
+        "gun": 15,
+        "gun_name": "Famas",
+        "skin": "ZX Spectron",
+        "stickers": [
+            { "name": "Rainbow Route", "type": "Holo", "quantity": 4 },
+            { "name": "Global TV", "type": "Lenticular", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "Red",
+        "img": "/img/famas-2.png"
+    },
+    {
+        "id": 35,
+        "gun": 16,
+        "gun_name": "R8 Revolver",
+        "skin": "Cobalt Grip",
+        "stickers": [
+            { "name": "Ultimate | Shanghai 2024", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Blue",
+        "img": "/img/r8-1.png"
+    },
+    {
+        "id": 36,
+        "gun": 16,
+        "gun_name": "R8 Revolver",
+        "skin": "Crazy 8",
+        "stickers": [
+            { "name": "Rare Atom | Shanghai 2024", "type": "Paper", "quantity": 4 }
+        ],
+        "type": "Design",
+        "craft": "Purple",
+        "img": "/img/r8-2.png"
+    },
+    {
+        "id": 37,
+        "gun": 17,
+        "gun_name": "Negev",
+        "skin": "Bratatat",
+        "stickers": [
+            { "name": "Apeks | Paris 2023", "type": "Paper", "quantity": 4 }
+        ],
+        "type": "Design",
+        "craft": "Orange",
+        "img": "/img/negev-1.png"
+    },
+    {
+        "id": 38,
+        "gun": 17,
+        "gun_name": "Negev",
+        "skin": "Bulkhead",
+        "stickers": [
+            { "name": "AMKAL | Copenhagen 2024", "type": "Paper", "quantity": 4 }
+        ],
+        "type": "Design",
+        "craft": "Yellow",
+        "img": "/img/negev-2.png"
+    },
+    {
+        "id": 39,
+        "gun": 18,
+        "gun_name": "SSG 08",
+        "skin": "Ghost Crusader",
+        "stickers": [
+            { "name": "Saw | Copenhagen 2024", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Blue",
+        "img": "/img/ssg-1.png"
+    },
+    {
+        "id": 40,
+        "gun": 18,
+        "gun_name": "SSG 08",
+        "skin": "Abyss",
+        "stickers": [
+            { "name": "Saw | Copenhagen 2024", "type": "Paper", "quantity": 4 },
+            { "name": "Hydro Geyser", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "Blue",
+        "img": "/img/ssg-2.png"
+    },
+    {
+        "id": 41,
+        "gun": 1,
+        "gun_name": "Any",
+        "skin": "Hosta",
+        "stickers": [
+            { "name": "Hooxi | Paris 2023", "type": "Paper", "quantity": 1 },
+            { "name": "Stavn | Antwerp 2022", "type": "Paper", "quantity": 1 },
+            { "name": "Poorly Drawn Chicken", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Word",
+        "craft": "Hosta",
+        "img": "/img/word-6.png"
+    },
+    {
+        "id": 42,
+        "gun": 19,
+        "gun_name": "P250",
+        "skin": "Constructivist",
+        "stickers": [
+            { "name": "Furia | Paris 2023", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Red",
+        "img": "/img/p250-1.png"
+    },
+    {
+        "id": 43,
+        "gun": 20,
+        "gun_name": "Five SeveN",
+        "skin": "Sky Blue",
+        "stickers": [
+            { "name": "Hydro Geyser", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Blue",
+        "img": "/img/fiveseven-1.png"
+    },
+    {
+        "id": 44,
+        "gun": 10,
+        "gun_name": "Any",
+        "skin": "Sexter",
+        "stickers": [
+            { "name": "Kawaii T", "type": "Holo", "quantity": 1 },
+            { "name": "Dexter | Shanghai 2024", "type": "Paper", "quantity": 1 },
+            { "name": "Poorly Drawn SAS", "type": "Holo", "quantity": 1 },
+            { "name": "Poorly Drawn Terrorist", "type": "Holo", "quantity": 1 }
+        ],
+        "type": "Craft",
+        "craft": "Sexter",
+        "img": "/img/craft-2.png"
+    },
+    {
+        "id": 45,
+        "gun": 16,
+        "gun_name": "R8 Revolver",
+        "skin": "Nitro",
+        "stickers": [
+            { "name": "Apeks | Paris 2023", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Orange",
+        "img": "/img/r8-3.png"
+    },
+    {
+        "id": 46,
+        "gun": 21,
+        "gun_name": "Nova",
+        "skin": "Candy Apple",
+        "stickers": [
+            { "name": "paiN Gaming | Paris 2023", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Red",
+        "img": "/img/nova-1.png"
+    },
+    {
+        "id": 47,
+        "gun": 22,
+        "gun_name": "Dual Berettas",
+        "skin": "Polished Malachite",
+        "stickers": [
+            { "name": "Boom Epicenter", "type": "Glitter", "quantity": 2 },
+            { "name": "Boom Trail", "type": "Glitter", "quantity": 2 }
+        ],
+        "type": "Design",
+        "craft": "Green",
+        "img": "/img/dualies-1.png"
+    },
+    {
+        "id": 48,
+        "gun": 19,
+        "gun_name": "P250",
+        "skin": "Cassette",
+        "stickers": [
+            { "name": "Fnatic | Paris 2023", "type": "Paper", "quantity": 4 },
+            { "name": "Fnatic | Paris 2023", "type": "Glitter", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "Orange",
+        "img": "/img/p250-2.png"
+    },
+    {
+        "id": 48,
+        "gun": 19,
+        "gun_name": "P250",
+        "skin": "Nevermore",
+        "stickers": [
+            { "name": "Bad News Eagles | Paris 2023", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Red",
+        "img": "/img/p250-3.png"
+    },
+    {
+        "id": 50,
+        "gun": 19,
+        "gun_name": "P250",
+        "skin": "Sedimentary",
+        "stickers": [
+            { "name": "Vitality | Paris 2023", "type": "Paper", "quantity": 4 },
+            { "name": "Vitality | Paris 2023", "type": "Holo", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "Yellow",
+        "img": "/img/p250-4.png"
+    },
+    {
+        "id": 51,
+        "gun": 10,
+        "gun_name": "Any",
+        "skin": "Burn Them All",
+        "stickers": [
+            { "name": "Krad | Paris 2023", "type": "Paper", "quantity": 3 },
+            { "name": "Burn Them All", "type": "Paper", "quantity": 1 },
+            { "name": "Speedy T", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Funny",
+        "craft": "Funny",
+        "img": "/img/craft-3.png"
+    },
+    {
+        "id": 52,
+        "gun": 8,
+        "gun_name": "Tec-9",
+        "skin": "Red Quartz",
+        "stickers": [
+            { "name": "Boom Trail", "type": "Paper", "quantity": 4 },
+            { "name": "Boom Epicenter", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "Red",
+        "img": "/img/tec9-3.png"
+    },
+    {
+        "id": 53,
+        "gun": 10,
+        "gun_name": "Any",
+        "skin": "Cock n Balls",
+        "stickers": [
+            { "name": "BIG | 2020 RMR", "type": "Holo (Scraped)", "quantity": 2 },
+            { "name": "NaVi | 2020 RMR", "type": "Holo (Scraped)", "quantity": 1 },
+            { "name": "Taste Bud", "type": "Paper (Scraped)", "quantity": 1 },
+            { "name": "Hydro Stream", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Funny",
+        "craft": "Funny",
+        "img": "/img/craft-4.png"
+    },
+    {
+        "id": 54,
+        "gun": 12,
+        "gun_name": "M4A1-S",
+        "skin": "Briefing",
+        "stickers": [
+            { "name": "paiN Gaming | Paris 2023", "type": "Glitter", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Red",
+        "img": "/img/m4a1s-2.png"
+    },
+    {
+        "id": 55,
+        "gun": 4,
+        "gun_name": "AWP",
+        "skin": "Redline",
+        "stickers": [
+            { "name": "Winding Scorch", "type": "Paper", "quantity": 3 },
+            { "name": "Scorch Loop", "type": "Paper", "quantity": 1 },
+            { "name": "Scorch Loop (Reverse)", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "Green",
+        "img": "/img/awp-3.png"
+    },
+    {
+        "id": 56,
+        "gun": 6,
+        "gun_name": "Glock-18",
+        "skin": "Umbral Rabbit",
+        "stickers": [
+            { "name": "Legendary Eagle", "type": "Holo (Scraped)", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "Brown",
+        "img": "/img/glock18-3.png"
+    },
+    {
+        "id": 57,
+        "gun": 12,
+        "gun_name": "M4A1-S",
+        "skin": "Cyrex",
+        "stickers": [
+            { "name": "Winding Scorch", "type": "Paper", "quantity": 3 },
+            { "name": "Scorch Loop", "type": "Paper", "quantity": 1 },
+            { "name": "Scorch Loop (Reverse)", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "Red",
+        "img": "/img/m4a1s-3.png"
+    },
+    {
+        "id": 58,
+        "gun": 1,
+        "gun_name": "Any",
+        "skin": "Jigaboo",
+        "stickers": [
+            { "name": "Jimpphat | Shanghai 2024", "type": "Paper", "quantity": 1 },
+            { "name": "Gamerlegion | Paris 2023", "type": "Holo", "quantity": 1 },
+            { "name": "AbelJ | Berlin 2019", "type": "Paper", "quantity": 1 },
+            { "name": "Tyloo | Stockholm 2021", "type": "Paper", "quantity": 1 },
+            { "name": "Retro Leet", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Word",
+        "craft": "Jigaboo",
+        "img": "/img/word-7.png"
+    },
+    {
+        "id": 59,
+        "gun": 10,
+        "gun_name": "Any",
+        "skin": "Tamara",
+        "stickers": [
+            { "name": "Tamara", "type": "Paper", "quantity": 1 },
+            { "name": "Bolt Strike", "type": "Paper", "quantity": 2 }
+        ],
+        "type": "Craft",
+        "craft": "Tamara",
+        "img": "/img/m4a4-3.png"
+    },
+    {
+        "id": 60,
+        "gun": 3,
+        "gun_name": "Desert Eagle",
+        "skin": "Tilted",
+        "stickers": [
+            { "name": "Bolt Strike", "type": "Paper", "quantity": 1 },
+            { "name": "Hard Carry", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Funny",
+        "craft": "Funny",
+        "img": "/img/deagle-4.png"
+    },
+    {
+        "id": 61,
+        "gun": 10,
+        "gun_name": "Any",
+        "skin": "Woman",
+        "stickers": [
+            { "name": "Kimberly", "type": "Paper", "quantity": 1 },
+            { "name": "Hydro Wave", "type": "Paper", "quantity": 1 },
+            { "name": "Flex", "type": "Paper", "quantity": 2 }
+        ],
+        "type": "Word",
+        "craft": "Woman",
+        "img": "/img/craft-idk-1.png"
+    },
+    {
+        "id": 62,
+        "gun": 23,
+        "gun_name": "AK-47",
+        "skin": "Slate",
+        "stickers": [
+            { "name": "First Blood", "type": "Paper (Scraped)", "quantity": 1 },
+            { "name": "Coiled Strike", "type": "Paper (Scraped)", "quantity": 4 }
+        ],
+        "type": "Design",
+        "craft": "Black",
+        "img": "/img/ak47-1.png"
+    },
+    {
+        "id": 63,
+        "gun": 4,
+        "gun_name": "AWP",
+        "skin": "Atheris",
+        "stickers": [
+            { "name": "No Pats", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Green",
+        "img": "/img/awp-2.png"
+    },
+    {
+        "id": 64,
+        "gun": 3,
+        "gun_name": "Desert Eagle",
+        "skin": "Trigger Discipline",
+        "stickers": [
+            { "name": "No Pats", "type": "Holo", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Pink",
+        "img": "/img/deagle-5.png"
+    },
+    {
+        "id": 65,
+        "gun": 23,
+        "gun_name": "AK-47",
+        "skin": "Emerald Pinstripe",
+        "stickers": [
+            { "name": "Boom Trail", "type": "Glitter", "quantity": 4 },
+            { "name": "Boom Blast", "type": "Glitter", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "Green",
+        "img": "/img/ak47-2.png"
+    },
+    {
+        "id": 66,
+        "gun": 12,
+        "gun_name": "M4A1-S",
+        "skin": "Emphorosaur-S",
+        "stickers": [
+            { "name": "Boom Trail", "type": "Glitter", "quantity": 2 },
+            { "name": "Boom Blast", "type": "Glitter", "quantity": 1 },
+            { "name": "Chompers", "type": "Paper", "quantity": 2 }
+        ],
+        "type": "Design",
+        "craft": "Green",
+        "img": "/img/m4a1s-4.png"
+    },
+    {
+        "id": 63,
+        "gun": 23,
+        "gun_name": "AK-47",
+        "skin": "Elite Build",
+        "stickers": [
+            { "name": "Boom Epicenter", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Orange",
+        "img": "/img/ak47-3.png"
+    },
+    {
+        "id": 64,
+        "gun": 6,
+        "gun_name": "Glock-18",
+        "skin": "Weasel",
+        "stickers": [
+            { "name": "AMKAL | Copenhagen 2024", "type": "Paper", "quantity": 2 },
+            { "name": "Mouz | Paris 2023", "type": "Paper", "quantity": 2 },
+            { "name": "Clown Nose", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Funny",
+        "craft": "Funny",
+        "img": "/img/glock18-4.png"
+    }
+]

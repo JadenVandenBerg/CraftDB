@@ -1,0 +1,71 @@
+/* App.css */
+html, body, #root {
+  height: 100%;
+  width: 100vw !important;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  width: 100%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #0f1923;
+  color: #d4d4d4;
+}
+
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.navbar {
+  background-color: #1e2a38;
+  padding: 1rem;
+  display: flex;
+  gap: 1rem;
+}
+
+.navbar a {
+  color: #f0c420;
+  text-decoration: none;
+}
+
+.container {
+  padding: 2rem;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  margin: 0;
+  padding: 1rem;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.grid-item {
+  position: relative;
+  border-radius: 8px;
+  overflow: hidden;
+  height: 200px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  text-shadow: 0 0 5px black;
+  transition: transform 0.3s ease;
+}
+
+.grid-item:hover {
+  transform: scale(1.03);
+}
+
+.grid-label {
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  padding: 0.5rem;
+}
