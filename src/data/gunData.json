@@ -857,7 +857,7 @@
         "img": "/img/m4a1s-4.png"
     },
     {
-        "id": 63,
+        "id": 67,
         "gun": 23,
         "gun_name": "AK-47",
         "skin": "Elite Build",
@@ -869,7 +869,7 @@
         "img": "/img/ak47-3.png"
     },
     {
-        "id": 64,
+        "id": 68,
         "gun": 6,
         "gun_name": "Glock-18",
         "skin": "Weasel",
