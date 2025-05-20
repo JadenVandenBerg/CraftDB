@@ -1,4 +1,4 @@
-function Home() {
+const Home: React.FC = () => {
   return (
     <div className="container">
       <h1>Welcome to the CS2 Themed Site</h1>
