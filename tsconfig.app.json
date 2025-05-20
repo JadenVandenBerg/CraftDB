@@ -23,5 +23,5 @@
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true
   },
-  "include": ["src", "src/pages/Home.jsx", "src/pages/Grid.jsx"]
+  "include": ["src", "src/pages/Home.tsx", "src/pages/Grid.tsx"]
 }

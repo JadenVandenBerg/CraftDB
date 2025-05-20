@@ -3,7 +3,7 @@ import gunData from '../data/gunData.json';
 
 function GridDetails() {
   const { id } = useParams();
-  const item = gunData.find((g) => g.id === parseInt(id));
+  const item = gunData.find((g) => g.id === parseInt(id ?? ''));
 
   if (!item) return <div>Gun not found</div>;
 

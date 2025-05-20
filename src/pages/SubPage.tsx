@@ -3,7 +3,7 @@ import gunData from '../data/gunData.json';
 
 function SubPage() {
   const { gunId } = useParams();
-  const gunNumber = parseInt(gunId, 10);
+  const gunNumber = parseInt(gunId ?? '', 10);
 
   // Filter gunData where gun matches the clicked gunId
   const filteredGuns = gunData.filter(item => item.gun === gunNumber);
