@@ -11,7 +11,7 @@ function SubPage() {
   if (filteredGuns.length === 0) return <p>No items found for this gun.</p>;
 
   return (
-    <div style={{ 
+    <div style={{  
       display: 'grid', 
       gridTemplateColumns: 'repeat(4, 1fr)', 
       gap: '1rem', 
