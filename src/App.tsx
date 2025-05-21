@@ -15,7 +15,7 @@ function App() {
       }}
     >
       <Router>
-            <nav style={{ backgroundColor: '#121212', padding: '1rem' }}>
+            <nav style={{ backgroundColor: '#e07e01', padding: '1rem' }}>
                 <Link to="/" style={{ color: 'white', marginRight: '1rem' }}>Home</Link>
             </nav>
 

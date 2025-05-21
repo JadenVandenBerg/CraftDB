@@ -881,5 +881,122 @@
         "type": "Funny",
         "craft": "Funny",
         "img": "/img/glock18-4.png"
+    },
+    {
+        "id": 69,
+        "gun": 20,
+        "gun_name": "Five SeveN",
+        "skin": "Flame Test",
+        "stickers": [
+            { "name": "9z Team | Antwerp 2022", "type": "Paper", "quantity": 2 }
+        ],
+        "type": "Funny",
+        "craft": "Funny",
+        "img": "/img/fiveseven-2.png"
+    },
+    {
+        "id": 70,
+        "gun": 10,
+        "gun_name": "Any",
+        "skin": "Four Big Guys",
+        "stickers": [
+            { "name": "Poorly Drawn SAS", "type": "Paper", "quantity": 4 },
+            { "name": "Sherry", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Craft",
+        "craft": "Four Big Guys",
+        "img": "/img/craft-a1.png"
+    },
+    {
+        "id": 71,
+        "gun": 24,
+        "gun_name": "G3SG1",
+        "skin": "Stinger",
+        "stickers": [
+            { "name": "NaVi | Paris 2023", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Yellow",
+        "img": "/img/g3-1.png"
+    },
+    {
+        "id": 72,
+        "gun": 10,
+        "gun_name": "Any",
+        "skin": "Tamara Lore",
+        "stickers": [
+            { "name": "Tamara", "type": "Paper", "quantity": 1 },
+            { "name": "BIG | 2020 RMR", "type": "Holo (Scraped)", "quantity": 2 },
+            { "name": "NaVi | 2020 RMR", "type": "Holo (Scraped)", "quantity": 1 },
+            { "name": "Taste Bud", "type": "Paper (Scraped)", "quantity": 1 }
+        ],
+        "type": "Funny",
+        "craft": "Funny",
+        "img": "/img/awp-4.png"
+    },
+    {
+        "id": 73,
+        "gun": 21,
+        "gun_name": "Nova",
+        "skin": "Wurst Holle",
+        "stickers": [
+            { "name": "Boom Trail", "type": "Paper", "quantity": 4 },
+            { "name": "Boom Epicenter", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "Orange",
+        "img": "/img/nova-2.png"
+    },
+    {
+        "id": 74,
+        "gun": 18,
+        "gun_name": "SSG 08",
+        "skin": "Mainframe",
+        "stickers": [
+            { "name": "Volt | Shanghai 2024", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Blue",
+        "img": "/img/ssg-01.png"
+    },
+    {
+        "id": 30,
+        "gun": 13,
+        "gun_name": "M4A4",
+        "skin": "Chopper",
+        "stickers": [
+            { "name": "Boom Trail", "type": "Glitter", "quantity": 4 },
+            { "name": "Boom Epicenter", "type": "Glitter", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "Green",
+        "img": "/img/m4a4-4.png"
+    },
+    {
+        "id": 31,
+        "gun": 6,
+        "gun_name": "Glock-18",
+        "skin": "Night",
+        "stickers": [
+            { "name": "Boom Trail", "type": "Paper", "quantity": 4 },
+            { "name": "Boom Epicenter", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "Orange",
+        "img": "/img/glock18-5.png"
+    },
+    {
+        "id": 31,
+        "gun": 25,
+        "gun_name": "XM1014",
+        "skin": "Canvas Cloud",
+        "stickers": [
+            { "name": "Boom Trail", "type": "Paper", "quantity": 3 },
+            { "name": "Boom Epicenter", "type": "Paper", "quantity": 1 },
+            { "name": "Boom Blast", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "Orange",
+        "img": "/img/xm-1.png"
     }
 ]

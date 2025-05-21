@@ -9,6 +9,7 @@ const items = [
     { id: 22, name: 'Dual Berettas', gun: 22, img: './img/dualies.png' },
     { id: 15, name: 'Famas', gun: 15, img: './img/famas.png' },
     { id: 20, name: 'Five SeveN', gun: 20, img: './img/fiveseven.png' },
+    { id: 24, name: 'G3SG1', gun: 24, img: './img/g3sg1.png' },
     { id: 2, name: 'Galil-AR', gun: 2, img: './img/galil-ar.png' },
     { id: 6, name: 'Glock-18', gun: 6, img: './img/glock-18.png' },
     { id: 12, name: 'M4A1-S', gun: 12, img: './img/m4a1-s.png' },
@@ -24,6 +25,7 @@ const items = [
     { id: 18, name: 'SSG 08', gun: 18, img: './img/ssg08.png' },
     { id: 8, name: 'Tec-9', gun: 8, img: './img/tec-9.png' },
     { id: 5, name: 'USP-S', gun: 5, img: './img/usps.png' },
+    { id: 25, name: 'XM1014', gun: 25, img: './img/xm1014.png' },
     { id: 14, name: 'Zeus x27', gun: 14, img: './img/zeus.png' },
 ];
 
