@@ -17,6 +17,12 @@ function App() {
       <Router>
             <nav style={{ backgroundColor: '#e07e01', padding: '1rem' }}>
                 <Link to="/" style={{ color: 'white', marginRight: '1rem' }}>Home</Link>
+                <a
+                    href="/Smokes/index.html"
+                    style={{ color: 'white', marginRight: '1rem' }}
+                >
+                    Grenades
+                </a>
             </nav>
 
             <Routes>
