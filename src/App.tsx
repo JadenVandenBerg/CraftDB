@@ -21,7 +21,7 @@ function App() {
                     href="/Smokes/index.html"
                     style={{ color: 'white', marginRight: '1rem' }}
                 >
-                    Grenades
+                    Grenades 
                 </a>
             </nav>
 
