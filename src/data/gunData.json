@@ -960,7 +960,7 @@
         "img": "/img/ssg-01.png"
     },
     {
-        "id": 30,
+        "id": 75,
         "gun": 13,
         "gun_name": "M4A4",
         "skin": "Chopper",
@@ -973,7 +973,7 @@
         "img": "/img/m4a4-4.png"
     },
     {
-        "id": 31,
+        "id": 76,
         "gun": 6,
         "gun_name": "Glock-18",
         "skin": "Night",
@@ -986,7 +986,7 @@
         "img": "/img/glock18-5.png"
     },
     {
-        "id": 31,
+        "id": 77,
         "gun": 25,
         "gun_name": "XM1014",
         "skin": "Canvas Cloud",

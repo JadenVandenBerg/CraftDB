@@ -86,6 +86,12 @@ body.anubis {
     height: 100vh;
 }
 
+body.agency {
+    background: url("img/agency.png") center center repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
 .smokeContainer {
     display: flex;
     flex-direction: column;

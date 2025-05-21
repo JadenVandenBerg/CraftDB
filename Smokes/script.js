@@ -1,6 +1,7 @@
 let navbar = `
 <div class="navbar">
     <a href="index.html">Home</a>
+    <a href="Agency.html">Agency</a>
     <a href="Ancient.html">Ancient</a>
     <a href="Anubis.html">Anubis</a>
     <a href="DustII.html">Dust II</a>
