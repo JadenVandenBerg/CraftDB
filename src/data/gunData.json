@@ -998,5 +998,70 @@
         "type": "Design",
         "craft": "Orange",
         "img": "/img/xm-1.png"
+    },
+    {
+        "id": 78,
+        "gun": 5,
+        "gun_name": "USP-S",
+        "skin": "PC-GRN",
+        "stickers": [
+            { "name": "Boom Blast", "type": "Glitter", "quantity": 1 },
+            { "name": "Boom Epicenter", "type": "Glitter", "quantity": 2 },
+            { "name": "Boom Trail", "type": "Glitter", "quantity": 2 }
+        ],
+        "type": "Design",
+        "craft": "Green",
+        "img": "/img/uspsa-1.png"
+    },
+    {
+        "id": 79,
+        "gun": 13,
+        "gun_name": "M4A4",
+        "skin": "Magnesium",
+        "stickers": [
+            { "name": "Ancient Beast", "type": "Paper (Scraped)", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Black",
+        "img": "/img/m4a4-6.png"
+    },
+    {
+        "id": 80,
+        "gun": 22,
+        "gun_name": "Dual Berettas",
+        "skin": "Cobalt Quartz",
+        "stickers": [
+            { "name": "Hydro Geyser", "type": "Paper", "quantity": 4 }
+        ],
+        "type": "Design",
+        "craft": "Blue",
+        "img": "/img/80.png"
+    },
+    {
+        "id": 81,
+        "gun": 10,
+        "gun_name": "Any",
+        "skin": "Bonfire",
+        "stickers": [
+            { "name": "Burn Them All", "type": "Paper", "quantity": 1 },
+            { "name": "Retro Leet", "type": "Paper", "quantity": 3 },
+            { "name": "Hot Wings", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Funny",
+        "craft": "Funny",
+        "img": "/img/81.png"
+    },
+    {
+        "id": 82,
+        "gun": 10,
+        "gun_name": "Any",
+        "skin": "The Final Solution",
+        "stickers": [
+            { "name": "Seek and Destroy", "type": "Paper", "quantity": 4 },
+            { "name": "Rogue Trader", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Funny",
+        "craft": "Funny",
+        "img": "/img/82.png"
     }
 ]
