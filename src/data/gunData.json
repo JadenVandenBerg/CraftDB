@@ -1456,5 +1456,41 @@
         "type": "Design",
         "craft": "Black",
         "img": "/img/112.png"
+    },
+    {
+        "id": 113,
+        "gun": 23,
+        "gun_name": "AK-47",
+        "skin": "Wintergreen",
+        "stickers": [
+            { "name": "Drug War Veteran", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Green",
+        "img": "/img/113.png"
+    },
+    {
+        "id": 114,
+        "gun": 23,
+        "gun_name": "AK-47",
+        "skin": "Wintergreen",
+        "stickers": [
+            { "name": "From the Deep", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Green",
+        "img": "/img/114.png"
+    },
+    {
+        "id": 115,
+        "gun": 4,
+        "gun_name": "AWP",
+        "skin": "Asiimov",
+        "stickers": [
+            { "name": "Scorch Loop (Reverse)", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Orange",
+        "img": "/img/115.png"
     }
 ]
