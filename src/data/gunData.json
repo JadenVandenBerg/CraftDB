@@ -1492,5 +1492,81 @@
         "type": "Design",
         "craft": "Orange",
         "img": "/img/115.png"
+    },
+    {
+        "id": 116,
+        "gun": 26,
+        "gun_name": "PP-Bison",
+        "skin": "Osiris",
+        "stickers": [
+            { "name": "High Heat", "type": "Paper", "quantity": 2 },
+            { "name": "Boom Blast", "type": "Paper", "quantity": 2 },
+            { "name": "Boom Epicenter", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "Orange",
+        "img": "/img/116.png"
+    },
+    {
+        "id": 117,
+        "gun": 4,
+        "gun_name": "AWP",
+        "skin": "Chrome Cannon",
+        "stickers": [
+            { "name": "Furia | Stockholm 2021", "type": "Holo", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Blue",
+        "img": "/img/117.png"
+    },
+    {
+        "id": 118,
+        "gun": 4,
+        "gun_name": "AWP",
+        "skin": "Basilisk",
+        "stickers": [
+            { "name": "Coiled Strike", "type": "Paper (Scraped)", "quantity": 1 },
+            { "name": "Stalking Prey", "type": "Paper (Scraped)", "quantity": 3 },
+            { "name": "Taste Buddy", "type": "Holo (Scraped)", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "Black",
+        "img": "/img/118.png"
+    },
+    {
+        "id": 119,
+        "gun": 7,
+        "gun_name": "Mac-10",
+        "skin": "Golden Brick",
+        "stickers": [
+            { "name": "Adeptus Custodes", "type": "Paper", "quantity": 4 }
+        ],
+        "type": "Design",
+        "craft": "Yellow",
+        "img": "/img/119.png"
+    },
+    {
+        "id": 120,
+        "gun": 5,
+        "gun_name": "USP-S",
+        "skin": "Blueprint",
+        "stickers": [
+            { "name": "Thousand Suns 2", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Blue",
+        "img": "/img/120.png"
+    },
+    {
+        "id": 121,
+        "gun": 20,
+        "gun_name": "Five SeveN",
+        "skin": "Urban Hazard",
+        "stickers": [
+            { "name": "Astra Militarum", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Red",
+        "img": "/img/121.png"
     }
 ]
