@@ -23,6 +23,7 @@ const items = [
     { id: 26, name: 'PP-Bison', gun: 26, img: './img/pp.png' },
     { id: 16, name: 'R8 Revolver', gun: 16, img: './img/r8.png' },
     //{ id: 19, name: 'Sawed Off', gun: 19, img: './img/sawedoff.png' },
+    { id: 27, name: 'SG 553', gun: 27, img: './img/sg553.png' },
     { id: 18, name: 'SSG 08', gun: 18, img: './img/ssg08.png' },
     { id: 8, name: 'Tec-9', gun: 8, img: './img/tec-9.png' },
     { id: 5, name: 'USP-S', gun: 5, img: './img/usps.png' },

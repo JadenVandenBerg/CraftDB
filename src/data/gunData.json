@@ -1523,7 +1523,7 @@
         "id": 118,
         "gun": 4,
         "gun_name": "AWP",
-        "skin": "Basilisk",
+        "skin": "Black Nile",
         "stickers": [
             { "name": "Coiled Strike", "type": "Paper (Scraped)", "quantity": 1 },
             { "name": "Stalking Prey", "type": "Paper (Scraped)", "quantity": 3 },
@@ -1568,5 +1568,65 @@
         "type": "Design",
         "craft": "Red",
         "img": "/img/121.png"
+    },
+    {
+        "id": 122,
+        "gun": 23,
+        "gun_name": "AK-47",
+        "skin": "Midnight Laminate",
+        "stickers": [
+            { "name": "Get Smoked", "type": "Holo", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Purple",
+        "img": "/img/122.png"
+    },
+    {
+        "id": 123,
+        "gun": 3,
+        "gun_name": "Desert Eagle",
+        "skin": "Serpent Strike",
+        "stickers": [
+            { "name": "paiN Gaming | Austin 2025", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Red",
+        "img": "/img/123.png"
+    },
+    {
+        "id": 124,
+        "gun": 27,
+        "gun_name": "SG 553",
+        "skin": "Cyrex",
+        "stickers": [
+            { "name": "paiN Gaming | Paris 2023", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Red",
+        "img": "/img/124.png"
+    },
+    {
+        "id": 125,
+        "gun": 22,
+        "gun_name": "Dual Berettas",
+        "skin": "Panther",
+        "stickers": [
+            { "name": "paiN Gaming | Paris 2023", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Red",
+        "img": "/img/125.png"
+    },
+    {
+        "id": 126,
+        "gun": 15,
+        "gun_name": "Famas",
+        "skin": "Pulse",
+        "stickers": [
+            { "name": "Broky | Paris 2023", "type": "Holo", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Pink",
+        "img": "/img/126.png"
     }
 ]
