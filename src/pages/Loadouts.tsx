@@ -1,7 +1,7 @@
 import { useParams, Link } from 'react-router-dom';
 import gunData from '../data/gunData.json';
 
-function SubPage() {
+function Loadouts() {
   let { color } = useParams();
   if (color == null) {
     color = 'red';
@@ -53,4 +53,4 @@ function SubPage() {
   );
 }
 
-export default SubPage;
+export default Loadouts;
