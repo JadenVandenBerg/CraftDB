@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 const items = [
     { id: 1, name: 'Word', gun: 1, img: './img/ak-47.png' },
     { id: 10, name: 'Craft', gun: 10, img: './img/ak-47.png' },
+    { id: 28, name: 'Team', gun: 28, img: './img/ak-47.png' },
     { id: 23, name: 'AK-47', gun: 23, img: './img/ak-47.png' },
     { id: 4, name: 'AWP', gun: 4, img: './img/awp.png' },
     { id: 3, name: 'Desert Eagle', gun: 3, img: './img/deagle.png' },

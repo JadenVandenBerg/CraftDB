@@ -27,7 +27,7 @@ body {
   gap: 1rem;
 }
 
-.navbar a {
+.navbar a, select, option {
   color: #f0c420;
   text-decoration: none;
 }

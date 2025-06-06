@@ -707,7 +707,7 @@
             { "name": "Scorch Loop (Reverse)", "type": "Paper", "quantity": 1 }
         ],
         "type": "Design",
-        "craft": "Green",
+        "craft": "Red",
         "img": "/img/awp-3.png"
     },
     {
@@ -1628,5 +1628,166 @@
         "type": "Design",
         "craft": "Pink",
         "img": "/img/126.png"
+    },
+    {
+        "id": 127,
+        "gun": 28,
+        "gun_name": "Liquid",
+        "skin": "Paris 2023",
+        "stickers": [
+            { "name": "NAF | Paris 2023", "type": "Paper", "quantity": 1 },
+            { "name": "Yekindar | Paris 2023", "type": "Paper", "quantity": 1 },
+            { "name": "EliGE | Paris 2023", "type": "Paper", "quantity": 1 },
+            { "name": "oSee | Paris 2023", "type": "Paper", "quantity": 1 },
+            { "name": "Nitr0 | Paris 2023", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Team",
+        "craft": "Paris 2023",
+        "img": "/img/131.png"
+    },
+    {
+        "id": 128,
+        "gun": 28,
+        "gun_name": "G2 Esports",
+        "skin": "Paris 2023",
+        "stickers": [
+            { "name": "huNter- | Paris 2023", "type": "Paper", "quantity": 1 },
+            { "name": "JKS | Paris 2023", "type": "Paper", "quantity": 1 },
+            { "name": "NiKo | Paris 2023", "type": "Paper", "quantity": 1 },
+            { "name": "m0NESY | Paris 2023", "type": "Paper", "quantity": 1 },
+            { "name": "HooXi | Paris 2023", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Team",
+        "craft": "Paris 2023",
+        "img": "/img/133.png"
+    },
+    {
+        "id": 129,
+        "gun": 28,
+        "gun_name": "G2 Esports",
+        "skin": "Copenhagen 2024",
+        "stickers": [
+            { "name": "huNter- | Copenhagen 2024", "type": "Paper", "quantity": 1 },
+            { "name": "nexa | Copenhagen 2024", "type": "Paper", "quantity": 1 },
+            { "name": "NiKo | Copenhagen 2024", "type": "Paper", "quantity": 1 },
+            { "name": "m0NESY | Copenhagen 2024", "type": "Paper", "quantity": 1 },
+            { "name": "HooXi | Copenhagen 2024", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Team",
+        "craft": "Copenhagen 2024",
+        "img": "/img/132.png"
+    },
+    {
+        "id": 130,
+        "gun": 28,
+        "gun_name": "Liquid",
+        "skin": "Shanghai 2024",
+        "stickers": [
+            { "name": "NAF | Shanghai 2024", "type": "Paper", "quantity": 1 },
+            { "name": "JKS | Shanghai 2024", "type": "Paper", "quantity": 1 },
+            { "name": "Yekindar | Shanghai 2024", "type": "Paper", "quantity": 1 },
+            { "name": "Ultimate | Shanghai 2024", "type": "Paper", "quantity": 1 },
+            { "name": "Twistzz | Shanghai 2024", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Team",
+        "craft": "Shanghai 2024",
+        "img": "/img/127.png"
+    },
+    {
+        "id": 131,
+        "gun": 28,
+        "gun_name": "G2 Esports",
+        "skin": "Shanghai 2024",
+        "stickers": [
+            { "name": "hunter- | Shanghai 2024", "type": "Paper", "quantity": 1 },
+            { "name": "MalbsMD | Shanghai 2024", "type": "Paper", "quantity": 1 },
+            { "name": "NiKo | Shanghai 2024", "type": "Paper", "quantity": 1 },
+            { "name": "m0nesy | Shanghai 2024", "type": "Paper", "quantity": 1 },
+            { "name": "Snax | Shanghai 2024", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Team",
+        "craft": "Shanghai 2024",
+        "img": "/img/128.png"
+    },
+    {
+        "id": 132,
+        "gun": 28,
+        "gun_name": "Liquid",
+        "skin": "Austin 2025",
+        "stickers": [
+            { "name": "NAF | Austin 2025", "type": "Foil", "quantity": 1 },
+            { "name": "Nertz | Austin 2025", "type": "Foil", "quantity": 1 },
+            { "name": "Twistzz | Austin 2025", "type": "Foil", "quantity": 1 },
+            { "name": "Ultimate | Austin 2025", "type": "Foil", "quantity": 1 },
+            { "name": "suihy | Austin 2025", "type": "Foil", "quantity": 1 }
+        ],
+        "type": "Team",
+        "craft": "Austin 2025",
+        "img": "/img/129.png"
+    },
+    {
+        "id": 133,
+        "gun": 28,
+        "gun_name": "G2 Esports",
+        "skin": "Austin 2025",
+        "stickers": [
+            { "name": "hunter- | Austin 2025", "type": "Foil", "quantity": 1 },
+            { "name": "HeavyGod | Austin 2025", "type": "Foil", "quantity": 1 },
+            { "name": "MalbsMD | Shanghai 2024", "type": "Foil", "quantity": 1 },
+            { "name": "Hades | Austin 2025", "type": "Foil", "quantity": 1 },
+            { "name": "Snax | Austin 2025", "type": "Foil", "quantity": 1 }
+        ],
+        "type": "Team",
+        "craft": "Austin 2025",
+        "img": "/img/130.png"
+    },
+    {
+        "id": 134,
+        "gun": 19,
+        "gun_name": "P250",
+        "skin": "Sedimentary",
+        "stickers": [
+            { "name": "Ecstatic | Copenhagen 2024", "type": "Glitter", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Yellow",
+        "img": "/img/134.png"
+    },
+    {
+        "id": 135,
+        "gun": 4,
+        "gun_name": "AWP",
+        "skin": "Worm God",
+        "stickers": [
+            { "name": "Co Co Co", "type": "Paper (Scraped)", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "White",
+        "img": "/img/118.png"
+    },
+    {
+        "id": 136,
+        "gun": 4,
+        "gun_name": "AWP",
+        "skin": "Atheris",
+        "stickers": [
+            { "name": "FalleN | Rio 2022", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Green",
+        "img": "/img/136.png"
+    },
+    {
+        "id": 137,
+        "gun": 6,
+        "gun_name": "Glock-18",
+        "skin": "Moonrise",
+        "stickers": [
+            { "name": "Bolt Charge", "type": "Paper", "quantity": 4 },
+            { "name": "Bolt Energy", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "Purple",
+        "img": "/img/137.png"
     }
 ]
