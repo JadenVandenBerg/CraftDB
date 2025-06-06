@@ -1763,7 +1763,7 @@
         ],
         "type": "Design",
         "craft": "White",
-        "img": "/img/118.png"
+        "img": "/img/135.png"
     },
     {
         "id": 136,
@@ -1789,5 +1789,53 @@
         "type": "Design",
         "craft": "Purple",
         "img": "/img/137.png"
+    },
+    {
+        "id": 138,
+        "gun": 5,
+        "gun_name": "USP-S",
+        "skin": "Royal Guard",
+        "stickers": [
+            { "name": "Fluxo | Paris 2023", "type": "Gold", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Blue",
+        "img": "/img/138.png"
+    },
+    {
+        "id": 139,
+        "gun": 5,
+        "gun_name": "USP-S",
+        "skin": "PC-GRN",
+        "stickers": [
+            { "name": "INS | Shanghai 2024", "type": "Glitter", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Green",
+        "img": "/img/139.png"
+    },
+    {
+        "id": 140,
+        "gun": 2,
+        "gun_name": "Galil-AR",
+        "skin": "Green Apple",
+        "stickers": [
+            { "name": "Imperial | Copenhagen 2024", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Green",
+        "img": "/img/140.png"
+    },
+    {
+        "id": 141,
+        "gun": 5,
+        "gun_name": "USP-S",
+        "skin": "Royal Guard",
+        "stickers": [
+            { "name": "PaiN | Paris 2023", "type": "Gold", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Blue",
+        "img": "/img/141.png"
     }
 ]
