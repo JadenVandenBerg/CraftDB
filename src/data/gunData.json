@@ -1837,5 +1837,184 @@
         "type": "Design",
         "craft": "Blue",
         "img": "/img/141.png"
+    },
+    {
+        "id": 142,
+        "gun": 13,
+        "gun_name": "M4A4",
+        "skin": "Evil Daimyo",
+        "stickers": [
+            { "name": "Winding Scorch", "type": "Paper", "quantity": 3 },
+            { "name": "Scorch Loop", "type": "Paper", "quantity": 1 },
+            { "name": "Scorch Loop (Reverse)", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "Red",
+        "img": "/img/142.png"
+    },
+    {
+        "id": 143,
+        "gun": 15,
+        "gun_name": "Famas",
+        "skin": "2A2F",
+        "stickers": [
+            { "name": "paiN Gaming | Paris 2023", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Orange",
+        "img": "/img/143.png"
+    },
+    {
+        "id": 144,
+        "gun": 8,
+        "gun_name": "Tec-9",
+        "skin": "Red Quartz",
+        "stickers": [
+            { "name": "NRG | Austin 2025", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Red",
+        "img": "/img/144.png"
+    },
+    {
+        "id": 145,
+        "gun": 5,
+        "gun_name": "USP-S",
+        "skin": "Black Lotus",
+        "stickers": [
+            { "name": "Web Stuck", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Blue",
+        "img": "/img/145.png"
+    },
+    {
+        "id": 146,
+        "gun": 20,
+        "gun_name": "Five SeveN",
+        "skin": "Berries and Cherries",
+        "stickers": [
+            { "name": "Approaching Site", "type": "Holo", "quantity": 1 },
+            { "name": "Tornado Chaos", "type": "Holo", "quantity": 1 },
+            { "name": "Romanov's Fire", "type": "Holo", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "Red/Blue",
+        "img": "/img/146.png"
+    },
+    {
+        "id": 147,
+        "gun": 3,
+        "gun_name": "Desert Eagle",
+        "skin": "Night",
+        "stickers": [
+            { "name": "Fire in the Hole", "type": "Holo", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Black",
+        "img": "/img/147.png"
+    },
+    {
+        "id": 148,
+        "gun": 10,
+        "gun_name": "Any",
+        "skin": "The Grinch",
+        "stickers": [
+            { "name": "Strike a Pose", "type": "Paper", "quantity": 1 },
+            { "name": "Boom Blast", "type": "Glitter", "quantity": 2 }
+        ],
+        "type": "Craft",
+        "craft": "The Grinch",
+        "img": "/img/148.png"
+    },
+    {
+        "id": 149,
+        "gun": 28,
+        "gun_name": "Team Falcons",
+        "skin": "Austin 2025",
+        "stickers": [
+            { "name": "TeSeS | Austin 2025", "type": "Foil", "quantity": 1 },
+            { "name": "Magisk | Austin 2025", "type": "Foil", "quantity": 1 },
+            { "name": "NiKo | Austin 2025", "type": "Foil", "quantity": 1 },
+            { "name": "mONESY | Austin 2025", "type": "Foil", "quantity": 1 },
+            { "name": "Kyxsan | Austin 2025", "type": "Foil", "quantity": 1 }
+        ],
+        "type": "Team",
+        "craft": "Austin 2025",
+        "img": "/img/149.png"
+    },
+    {
+        "id": 150,
+        "gun": 2,
+        "gun_name": "Galil-AR",
+        "skin": "Chromatic Aberration",
+        "stickers": [
+            { "name": "Flick Shotter", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Pink",
+        "img": "/img/150.png"
+    },
+    {
+        "id": 151,
+        "gun": 9,
+        "gun_name": "MP9",
+        "skin": "Nexus",
+        "stickers": [
+            { "name": "mibr | Stockholm 2021", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Green",
+        "img": "/img/151.png"
+    },
+    {
+        "id": 152,
+        "gun": 6,
+        "gun_name": "Glock-18",
+        "skin": "Gold Toof",
+        "stickers": [
+            { "name": "Ribbon Tie", "type": "Paper", "quantity": 1 },
+            { "name": "Quick Peek", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "Pink",
+        "img": "/img/152.png"
+    },
+    {
+        "id": 153,
+        "gun": 9,
+        "gun_name": "MP9",
+        "skin": "Modest Threat",
+        "stickers": [
+            { "name": "Apeks | Paris 2023", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Orange",
+        "img": "/img/153.png"
+    },
+    {
+        "id": 154,
+        "gun": 5,
+        "gun_name": "USP-S",
+        "skin": "Printstream",
+        "stickers": [
+            { "name": "Fluxo | Paris 2023", "type": "Glitter", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "White",
+        "img": "/img/154.png"
+    },
+    {
+        "id": 155,
+        "gun": 10,
+        "gun_name": "Any",
+        "skin": "Kraken",
+        "stickers": [
+            { "name": "Legendary", "type": "Paper", "quantity": 1 },
+            { "name": "Free Hugs", "type": "Paper", "quantity": 4 }
+        ],
+        "type": "Craft",
+        "craft": "Kraken",
+        "img": "/img/155.png"
     }
 ]
