@@ -2016,5 +2016,173 @@
         "type": "Craft",
         "craft": "Kraken",
         "img": "/img/155.png"
+    },
+    {
+        "id": 156,
+        "gun": 5,
+        "gun_name": "USP-S",
+        "skin": "Torque",
+        "stickers": [
+            { "name": "AMKAL | Copenhagen 2024", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Yellow",
+        "img": "/img/156.png"
+    },
+    {
+        "id": 157,
+        "gun": 29,
+        "gun_name": "AUG",
+        "skin": "Condemned",
+        "stickers": [
+            { "name": "Apeks | Paris 2023", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Orange",
+        "img": "/img/157.png"
+    },
+    {
+        "id": 158,
+        "gun": 29,
+        "gun_name": "AUG",
+        "skin": "Tom Cat",
+        "stickers": [
+            { "name": "NaVi | Paris 2023", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Yellow",
+        "img": "/img/158.png"
+    },
+    {
+        "id": 159,
+        "gun": 9,
+        "gun_name": "MP9",
+        "skin": "Buff Blue",
+        "stickers": [
+            { "name": "Laser Beam", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Blue",
+        "img": "/img/159.png"
+    },
+    {
+        "id": 160,
+        "gun": 9,
+        "gun_name": "MP9",
+        "skin": "Featherweight",
+        "stickers": [
+            { "name": "paiN Gaming | Paris 2023", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Black",
+        "img": "/img/160.png"
+    },
+    {
+        "id": 161,
+        "gun": 11,
+        "gun_name": "MP7",
+        "skin": "Armor Core",
+        "stickers": [
+            { "name": "Fluxo | Paris 2023", "type": "Glitter", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Black",
+        "img": "/img/161.png"
+    },
+    {
+        "id": 162,
+        "gun": 15,
+        "gun_name": "Famas",
+        "skin": "Bad Trip",
+        "stickers": [
+            { "name": "Quick Peek", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Funny",
+        "img": "/img/162.png"
+    },
+    {
+        "id": 163,
+        "gun": 30,
+        "gun_name": "Sawed Off",
+        "skin": "Origami",
+        "stickers": [
+            { "name": "Apeks | Paris 2023", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Orange",
+        "img": "/img/163.png"
+    },
+    {
+        "id": 164,
+        "gun": 7,
+        "gun_name": "Mac-10",
+        "skin": "Silver",
+        "stickers": [
+            { "name": "paiN Gaming | Austin 2025", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Silver",
+        "img": "/img/164.png"
+    },
+    {
+        "id": 165,
+        "gun": 30,
+        "gun_name": "Sawed Off",
+        "skin": "Limelight",
+        "stickers": [
+            { "name": "mibr | Stockholm 2021", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Green",
+        "img": "/img/165.png"
+    },
+    {
+        "id": 166,
+        "gun": 31,
+        "gun_name": "UMP-45",
+        "skin": "Briefing",
+        "stickers": [
+            { "name": "paiN Gaming | Paris 2023", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Black",
+        "img": "/img/166.png"
+    },
+    {
+        "id": 167,
+        "gun": 31,
+        "gun_name": "UMP-45",
+        "skin": "Oscillator",
+        "stickers": [
+            { "name": "Apeks | Paris 2023", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Orange",
+        "img": "/img/167.png"
+    },
+    {
+        "id": 168,
+        "gun": 31,
+        "gun_name": "UMP-45",
+        "skin": "Carbon Fiber",
+        "stickers": [
+            { "name": "Hazardao | Paris 2023", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Black",
+        "img": "/img/168.png"
+    },
+    {
+        "id": 169,
+        "gun": 2,
+        "gun_name": "Galil-AR",
+        "skin": "Eco",
+        "stickers": [
+            { "name": "Alpha Legion 2", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Green",
+        "img": "/img/169.png"
     }
 ]
