@@ -51,7 +51,7 @@ function Grid() {
         >
             {items.map(item => (
                 <Link
-                    to={`/subpage/${item.gun}`}
+                    to={`/gun/${item.gun}`}
                     key={item.id}
                     style={{
                         backgroundImage: item.img ? `url(${item.img})` : 'none',

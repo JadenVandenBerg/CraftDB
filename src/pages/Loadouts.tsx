@@ -20,7 +20,7 @@ function Loadouts() {
     }}>
       {filteredGuns.map(item => (
         <Link 
-            to={`/gridDetails/${item.id}`} 
+            to={`/craft/${item.id}`} 
             key={item.id} 
             style={{ 
                 display: 'block', 

@@ -2184,5 +2184,200 @@
         "type": "Design",
         "craft": "Green",
         "img": "/img/169.png"
+    },
+    {
+        "id": 170,
+        "gun": 23,
+        "gun_name": "AK-47",
+        "skin": "Aquamarine Revenge",
+        "stickers": [
+            { "name": "No Pats", "type": "Paper", "quantity": 4 },
+            { "name": "Battle Scarred", "type": "Holo", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "Green",
+        "img": "/img/170.png"
+    },
+    {
+        "id": 171,
+        "gun": 13,
+        "gun_name": "M4A4",
+        "skin": "Evil Daimyo",
+        "stickers": [
+            { "name": "Inquisition", "type": "Paper", "quantity": 2 },
+            { "name": "World Eaters 2", "type": "Paper", "quantity": 2 },
+            { "name": "Raven Guard", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "Red",
+        "img": "/img/171.png"
+    },
+    {
+        "id": 172,
+        "gun": 4,
+        "gun_name": "AWP",
+        "skin": "Wildfire",
+        "stickers": [
+            { "name": "Battle Scarred", "type": "Holo", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Red",
+        "img": "/img/172.png"
+    },
+    {
+        "id": 173,
+        "gun": 10,
+        "gun_name": "Any",
+        "skin": "Master Cheif",
+        "stickers": [
+            { "name": "Chief", "type": "Paper", "quantity": 3 },
+            { "name": "Ancient Beast", "type": "Paper", "quantity": 2 }
+        ],
+        "type": "Craft",
+        "craft": "Master Cheif",
+        "img": "/img/173.png"
+    },
+    {
+        "id": 174,
+        "gun": 14,
+        "gun_name": "Zeus x27",
+        "skin": "Charged Up",
+        "stickers": [
+            { "name": "Clown Nose", "type": "Paper", "quantity": 2 },
+            { "name": "Bolt Energy", "type": "Paper", "quantity": 2 },
+            { "name": "Blinky", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "Yellow",
+        "img": "/img/174.png"
+    },
+    {
+        "id": 175,
+        "gun": 23,
+        "gun_name": "AK-47",
+        "skin": "Slate",
+        "stickers": [
+            { "name": "Sisters of Battle 1", "type": "Paper", "quantity": 1 },
+            { "name": "Genestealer Cults 1", "type": "Paper", "quantity": 3 },
+            { "name": "Salamanders", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "Black",
+        "img": "/img/175.png"
+    },
+    {
+        "id": 176,
+        "gun": 23,
+        "gun_name": "AK-47",
+        "skin": "Asiimov",
+        "stickers": [
+            { "name": "Fnatic | Paris 2023", "type": "Glitter", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Orange",
+        "img": "/img/176.png"
+    },
+    {
+        "id": 177,
+        "gun": 10,
+        "gun_name": "Any",
+        "skin": "Spiderman",
+        "stickers": [
+            { "name": "Forze | Paris 2023", "type": "Glitter", "quantity": 2 },
+            { "name": "9ine | Paris 2023", "type": "Paper", "quantity": 1 },
+            { "name": "Gold Web", "type": "Paper", "quantity": 1 },
+            { "name": "Shattered Web", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Craft",
+        "craft": "Spiderman",
+        "img": "/img/177.png"
+    },
+    {
+        "id": 178,
+        "gun": 10,
+        "gun_name": "Any",
+        "skin": "Gladiator Bobblehead",
+        "stickers": [
+            { "name": "BIG | Antwerp 2022", "type": "Gold", "quantity": 1 },
+            { "name": "Imperial | Copenhagen 2024", "type": "Gold", "quantity": 1 },
+            { "name": "ESPADA | 2020 RMR", "type": "Holo", "quantity": 1 },
+            { "name": "Silver Skulls", "type": "Paper", "quantity": 1 },
+            { "name": "Dark Angels", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Craft",
+        "craft": "Gladiator Bobblehead",
+        "img": "/img/178.png"
+    },
+    {
+        "id": 179,
+        "gun": 6,
+        "gun_name": "Glock-18",
+        "skin": "AXIA",
+        "stickers": [
+            { "name": "Cedar Creek", "type": "Holo", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Blue",
+        "img": "/img/179.png"
+    },
+    {
+        "id": 180,
+        "gun": 2,
+        "gun_name": "Galil-AR",
+        "skin": "Tuxedo",
+        "stickers": [
+            { "name": "Saw | Copenhagen 2024", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "White",
+        "img": "/img/180.png"
+    },
+    {
+        "id": 181,
+        "gun": 19,
+        "gun_name": "P250",
+        "skin": "Asiimov",
+        "stickers": [
+            { "name": "Apeks | Copenhagen 2024", "type": "Glitter", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Orange",
+        "img": "/img/181.png"
+    },
+    {
+        "id": 182,
+        "gun": 19,
+        "gun_name": "P250",
+        "skin": "Valence",
+        "stickers": [
+            { "name": "Move It", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Blue",
+        "img": "/img/182.png"
+    },
+    {
+        "id": 183,
+        "gun": 4,
+        "gun_name": "AWP",
+        "skin": "POP AWP",
+        "stickers": [
+            { "name": "Nice Shot", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Blue",
+        "img": "/img/183.png"
+    },
+    {
+        "id": 184,
+        "gun": 5,
+        "gun_name": "USP-S",
+        "skin": "Cortex",
+        "stickers": [
+            { "name": "No Pats", "type": "Holo", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Pink",
+        "img": "/img/184.png"
     }
 ]

@@ -70,8 +70,8 @@ function App() {
             <Routes>
                 <Route path="/" element={<Grid />} />
                 <Route path="/grid" element={<Grid />} />
-                <Route path="/subpage/:gunId" element={<SubPage />} />
-                <Route path="/gridDetails/:id" element={<GridDetails />} />
+                <Route path="/gun/:gunId" element={<SubPage />} />
+                <Route path="/craft/:id" element={<GridDetails />} />
                 <Route path="/loadouts/:color" element={<Loadouts />} />
             </Routes>
         </Router>
