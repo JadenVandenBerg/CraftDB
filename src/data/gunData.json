@@ -2379,5 +2379,17 @@
         "type": "Design",
         "craft": "Pink",
         "img": "/img/184.png"
+    },
+    {
+        "id": 185,
+        "gun": 23,
+        "gun_name": "AK-47",
+        "skin": "Emerald Pinstripe",
+        "stickers": [
+            { "name": "INS | Shanghai 2024", "type": "Paper", "quantity": 4 }
+        ],
+        "type": "Design",
+        "craft": "Green",
+        "img": "/img/185.png"
     }
 ]
