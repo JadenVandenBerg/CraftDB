@@ -1,37 +1,5 @@
 [
     {
-        "id": 1,
-        "gun": 1,
-        "gun_name": "Any",
-        "skin": "Peanits",
-        "stickers": [
-            { "name": "paiN Gaming | Paris 2023", "type": "Paper", "quantity": 1 },
-            { "name": "EliGE | Shanghai 2024", "type": "Paper", "quantity": 1 },
-            { "name": "AdreN | Berlin 2019", "type": "Paper", "quantity": 1 },
-            { "name": "Nitr0 | Paris 2023", "type": "Paper", "quantity": 1 },
-            { "name": "SDY | Paris 2023", "type": "Paper", "quantity": 1 }
-        ],
-        "type": "Word",
-        "craft": "Peanits",
-        "img": "/img/word-1.png"
-    },
-    {
-        "id": 2,
-        "gun": 1,
-        "gun_name": "Any",
-        "skin": "Nuke France",
-        "stickers": [
-            { "name": "Nuke Beast", "type": "Paper", "quantity": 1 },
-            { "name": "blameF | Shanghai 2024", "type": "Paper", "quantity": 1 },
-            { "name": "rain (Champion) | Antwerp 2022", "type": "Paper", "quantity": 1 },
-            { "name": "Nitr0 | Paris 2023", "type": "Paper", "quantity": 1 },
-            { "name": "CeRq | Berlin 2019", "type": "Paper", "quantity": 1 }
-        ],
-        "type": "Word",
-        "craft": "Nuke France",
-        "img": "/img/word-2.png"
-    },
-    {
         "id": 3,
         "gun": 2,
         "gun_name": "Galil-AR",
@@ -138,22 +106,6 @@
         "type": "Design",
         "craft": "White",
         "img": "/img/deagle-2.png"
-    },
-    {
-        "id": 12,
-        "gun": 1,
-        "gun_name": "Any",
-        "skin": "I'm Jorqin",
-        "stickers": [
-            { "name": "iM | Paris 2023", "type": "Paper", "quantity": 1 },
-            { "name": "JOTA | Antwerp 2022", "type": "Paper", "quantity": 1 },
-            { "name": "rigoN | Shanghai 2024", "type": "Paper", "quantity": 1 },
-            { "name": "Qikert | Berlin 2019", "type": "Paper", "quantity": 1 },
-            { "name": "No Pats", "type": "Paper", "quantity": 1 }
-        ],
-        "type": "Word",
-        "craft": "I'm Jorqin",
-        "img": "/img/word-4.png"
     },
     {
         "id": 13,
@@ -553,21 +505,6 @@
         "img": "/img/fiveseven-1.png"
     },
     {
-        "id": 44,
-        "gun": 10,
-        "gun_name": "Any",
-        "skin": "Sexter",
-        "stickers": [
-            { "name": "Kawaii T", "type": "Holo", "quantity": 1 },
-            { "name": "Dexter | Shanghai 2024", "type": "Paper", "quantity": 1 },
-            { "name": "Poorly Drawn SAS", "type": "Holo", "quantity": 1 },
-            { "name": "Poorly Drawn Terrorist", "type": "Holo", "quantity": 1 }
-        ],
-        "type": "Craft",
-        "craft": "Sexter",
-        "img": "/img/craft-2.png"
-    },
-    {
         "id": 45,
         "gun": 16,
         "gun_name": "R8 Revolver",
@@ -643,20 +580,6 @@
         "img": "/img/p250-4.png"
     },
     {
-        "id": 51,
-        "gun": 10,
-        "gun_name": "Any",
-        "skin": "Burn Them All",
-        "stickers": [
-            { "name": "Krad | Paris 2023", "type": "Paper", "quantity": 3 },
-            { "name": "Burn Them All", "type": "Paper", "quantity": 1 },
-            { "name": "Speedy T", "type": "Paper", "quantity": 1 }
-        ],
-        "type": "Funny",
-        "craft": "Funny",
-        "img": "/img/craft-3.png"
-    },
-    {
         "id": 52,
         "gun": 8,
         "gun_name": "Tec-9",
@@ -668,21 +591,6 @@
         "type": "Design",
         "craft": "Red",
         "img": "/img/tec9-3.png"
-    },
-    {
-        "id": 53,
-        "gun": 10,
-        "gun_name": "Any",
-        "skin": "Cock n Balls",
-        "stickers": [
-            { "name": "BIG | 2020 RMR", "type": "Holo (Scraped)", "quantity": 2 },
-            { "name": "NaVi | 2020 RMR", "type": "Holo (Scraped)", "quantity": 1 },
-            { "name": "Taste Bud", "type": "Paper (Scraped)", "quantity": 1 },
-            { "name": "Hydro Stream", "type": "Paper", "quantity": 1 }
-        ],
-        "type": "Funny",
-        "craft": "Funny",
-        "img": "/img/craft-4.png"
     },
     {
         "id": 54,
@@ -737,22 +645,6 @@
         "img": "/img/m4a1s-3.png"
     },
     {
-        "id": 58,
-        "gun": 1,
-        "gun_name": "Any",
-        "skin": "Jigaboo",
-        "stickers": [
-            { "name": "Jimpphat | Shanghai 2024", "type": "Paper", "quantity": 1 },
-            { "name": "Gamerlegion | Paris 2023", "type": "Holo", "quantity": 1 },
-            { "name": "AbelJ | Berlin 2019", "type": "Paper", "quantity": 1 },
-            { "name": "Tyloo | Stockholm 2021", "type": "Paper", "quantity": 1 },
-            { "name": "Retro Leet", "type": "Paper", "quantity": 1 }
-        ],
-        "type": "Word",
-        "craft": "Jigaboo",
-        "img": "/img/word-7.png"
-    },
-    {
         "id": 59,
         "gun": 10,
         "gun_name": "Any",
@@ -777,20 +669,6 @@
         "type": "Funny",
         "craft": "Funny",
         "img": "/img/deagle-4.png"
-    },
-    {
-        "id": 61,
-        "gun": 10,
-        "gun_name": "Any",
-        "skin": "Woman",
-        "stickers": [
-            { "name": "Kimberly", "type": "Paper", "quantity": 1 },
-            { "name": "Hydro Wave", "type": "Paper", "quantity": 1 },
-            { "name": "Flex", "type": "Paper", "quantity": 2 }
-        ],
-        "type": "Word",
-        "craft": "Woman",
-        "img": "/img/craft-idk-1.png"
     },
     {
         "id": 62,
@@ -895,19 +773,6 @@
         "img": "/img/fiveseven-2.png"
     },
     {
-        "id": 70,
-        "gun": 10,
-        "gun_name": "Any",
-        "skin": "Four Big Guys",
-        "stickers": [
-            { "name": "Poorly Drawn SAS", "type": "Paper", "quantity": 4 },
-            { "name": "Sherry", "type": "Paper", "quantity": 1 }
-        ],
-        "type": "Craft",
-        "craft": "Four Big Guys",
-        "img": "/img/craft-a1.png"
-    },
-    {
         "id": 71,
         "gun": 24,
         "gun_name": "G3SG1",
@@ -918,21 +783,6 @@
         "type": "Design",
         "craft": "Yellow",
         "img": "/img/g3-1.png"
-    },
-    {
-        "id": 72,
-        "gun": 10,
-        "gun_name": "Any",
-        "skin": "Tamara Lore",
-        "stickers": [
-            { "name": "Tamara", "type": "Paper", "quantity": 1 },
-            { "name": "BIG | 2020 RMR", "type": "Holo (Scraped)", "quantity": 2 },
-            { "name": "NaVi | 2020 RMR", "type": "Holo (Scraped)", "quantity": 1 },
-            { "name": "Taste Bud", "type": "Paper (Scraped)", "quantity": 1 }
-        ],
-        "type": "Funny",
-        "craft": "Funny",
-        "img": "/img/awp-4.png"
     },
     {
         "id": 73,
@@ -1036,33 +886,6 @@
         "type": "Design",
         "craft": "Blue",
         "img": "/img/80.png"
-    },
-    {
-        "id": 81,
-        "gun": 10,
-        "gun_name": "Any",
-        "skin": "Bonfire",
-        "stickers": [
-            { "name": "Burn Them All", "type": "Paper", "quantity": 1 },
-            { "name": "Retro Leet", "type": "Paper", "quantity": 3 },
-            { "name": "Hot Wings", "type": "Paper", "quantity": 1 }
-        ],
-        "type": "Funny",
-        "craft": "Funny",
-        "img": "/img/81.png"
-    },
-    {
-        "id": 82,
-        "gun": 10,
-        "gun_name": "Any",
-        "skin": "The Final Solution",
-        "stickers": [
-            { "name": "Seek and Destroy", "type": "Paper", "quantity": 4 },
-            { "name": "Rogue Trader", "type": "Paper", "quantity": 1 }
-        ],
-        "type": "Funny",
-        "craft": "Funny",
-        "img": "/img/82.png"
     },
     {
         "id": 83,
@@ -1391,21 +1214,6 @@
         "type": "Craft",
         "craft": "Flower",
         "img": "/img/107.png"
-    },
-    {
-        "id": 108,
-        "gun": 10,
-        "gun_name": "M4A4 - Temukau",
-        "skin": "Honkas",
-        "stickers": [
-            { "name": "Flex", "type": "Paper", "quantity": 1 },
-            { "name": "Hydro Stream", "type": "Paper", "quantity": 1 },
-            { "name": "Hydro Wave", "type": "Paper", "quantity": 1 },
-            { "name": "Ribbon Tie", "type": "Paper", "quantity": 1 }
-        ],
-        "type": "Craft",
-        "craft": "Honkas",
-        "img": "/img/108.png"
     },
     {
         "id": 109,
@@ -2199,20 +2007,6 @@
         "img": "/img/170.png"
     },
     {
-        "id": 171,
-        "gun": 13,
-        "gun_name": "M4A4",
-        "skin": "Evil Daimyo",
-        "stickers": [
-            { "name": "Inquisition", "type": "Paper", "quantity": 2 },
-            { "name": "World Eaters 2", "type": "Paper", "quantity": 2 },
-            { "name": "Raven Guard", "type": "Paper", "quantity": 1 }
-        ],
-        "type": "Design",
-        "craft": "Red",
-        "img": "/img/171.png"
-    },
-    {
         "id": 172,
         "gun": 4,
         "gun_name": "AWP",
@@ -2391,5 +2185,130 @@
         "type": "Design",
         "craft": "Green",
         "img": "/img/185.png"
+    },
+    {
+        "id": 186,
+        "gun": 10,
+        "gun_name": "Mac-10 - Sakkaku",
+        "skin": "Middle Finger",
+        "stickers": [
+            { "name": "Ouchie", "type": "Foil", "quantity": 4 }
+        ],
+        "type": "Funny",
+        "craft": "Middle Finger",
+        "img": "/img/186.png"
+    },
+    {
+        "id": 187,
+        "gun": 19,
+        "gun_name": "P250",
+        "skin": "Cassette",
+        "stickers": [
+            { "name": "Rush More", "type": "Paper", "quantity": 4 }
+        ],
+        "type": "Design",
+        "craft": "Blue",
+        "img": "/img/187.png"
+    },
+    {
+        "id": 188,
+        "gun": 23,
+        "gun_name": "AK-47",
+        "skin": "Ice Coaled",
+        "stickers": [
+            { "name": "coldzera | Rio 2022", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Blue/Green",
+        "img": "/img/188.png"
+    },
+    {
+        "id": 189,
+        "gun": 23,
+        "gun_name": "AK-47",
+        "skin": "Slate",
+        "stickers": [
+            { "name": "mibr | Shanghai 2024", "type": "Glitter", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Black",
+        "img": "/img/189.png"
+    },
+    {
+        "id": 190,
+        "gun": 13,
+        "gun_name": "M4A4",
+        "skin": "Evil Daimyo",
+        "stickers": [
+            { "name": "Scorch Loop", "type": "Paper", "quantity": 1 },
+            { "name": "Space Wolves", "type": "Paper", "quantity": 2 },
+            { "name": "Blood Ravens", "type": "Paper", "quantity": 1 },
+            { "name": "Chompers", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "Red",
+        "img": "/img/190.png"
+    },
+    {
+        "id": 191,
+        "gun": 5,
+        "gun_name": "USP-S",
+        "skin": "Cortex",
+        "stickers": [
+            { "name": "Run T, Run", "type": "Paper", "quantity": 4 }
+        ],
+        "type": "Design",
+        "craft": "Pink",
+        "img": "/img/191.png"
+    },
+    {
+        "id": 192,
+        "gun": 13,
+        "gun_name": "M4A4",
+        "skin": "Buzz Kill",
+        "stickers": [
+            { "name": "Extermination", "type": "Paper", "quantity": 5 }
+        ],
+        "type": "Design",
+        "craft": "Yellow",
+        "img": "/img/192.png"
+    },
+    {
+        "id": 193,
+        "gun": 3,
+        "gun_name": "Desert Eagle",
+        "skin": "Oxide Blaze",
+        "stickers": [
+            { "name": "Genestealer Cults 1", "type": "Paper", "quantity": 2 },
+            { "name": "Salamanders", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "White",
+        "img": "/img/193.png"
+    },
+    {
+        "id": 194,
+        "gun": 4,
+        "gun_name": "AWP",
+        "skin": "Mortis",
+        "stickers": [
+            { "name": "Extermination", "type": "Paper", "quantity": 4 },
+            { "name": "Till Death do us Part", "type": "Paper", "quantity": 1 }
+        ],
+        "type": "Design",
+        "craft": "Yellow",
+        "img": "/img/194.png"
+    },
+    {
+        "id": 195,
+        "gun": 4,
+        "gun_name": "AWP",
+        "skin": "Acheron",
+        "stickers": [
+            { "name": "Death Guard 1", "type": "Paper", "quantity": 4 }
+        ],
+        "type": "Design",
+        "craft": "Red",
+        "img": "/img/195.png"
     }
 ]
